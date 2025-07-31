@@ -1,0 +1,29 @@
+# Entornos virtuales
+.venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de configuración o temporales
+*.log
+*.sqlite3
+*.db
+*.env
+.env.*
+
+# Archivos de editor/IDE
+.vscode/
+.idea/
+*.swp
+*.bak
+*.tmp
+
+# Archivos de testing
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+nosetes
